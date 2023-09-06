@@ -18,6 +18,8 @@ Feel free to explore the solutions, ask questions, or provide feedback on the co
 Here are some of the problems I've solved:
 
 1. Problem 1: Two Sum
+2. Problem 725: Split Linked List in Parts
+
 
 
 
